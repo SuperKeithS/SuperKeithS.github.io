@@ -1,10 +1,10 @@
 ---
-title: "Exploratory Data Analysis"
+title: "Machine Learning Project: Perceptron"
 date: 2018-01-28
-tags: [EPA, data science, R]
+tags: [machine learning, data science, neural network]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Exploratory Data Analysis, Perceptron, Data Science"
+excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
 

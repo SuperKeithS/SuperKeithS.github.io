@@ -4,10 +4,6 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
-  - title: "Exploratory Data Analysis"
-    url: /EDA/
-  - title: "Exploratory Data Analysis2"
-    url: /EDA2/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
