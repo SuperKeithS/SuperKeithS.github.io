@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning Project: Perceptron"
+title: "Exploratory Data Analysis: Board Game Geek"
 date: 2018-01-28
-tags: [machine learning, data science, neural network]
+tags: [EDA, Exploratory Data Analysis, data science, r, Board Game]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+  image: "/images/EDA/BGG/header.jpg"
+excerpt: "Exploratory Data Analysis, Data Science, R"
 mathjax: "true"
 ---
 
